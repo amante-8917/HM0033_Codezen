@@ -311,9 +311,7 @@ header {
 }
 
 @media (max-width: 767px) {
-  .content {
-    /* padding: 10px; */
-  }
+  
   .deli .para {
     font-size: 23px;
     text-align: center;
@@ -340,8 +338,7 @@ header {
 }
 
 /* social */
-.sociallist {
-}
+
 .social {
   position: absolute;
   display: flex;
@@ -393,6 +390,4 @@ header {
   text-decoration: underline 5px;
   text-decoration-color: #06c167;
 }
-.heading:hover {
-  /* letter-spacing: 3px; */
-}
+
