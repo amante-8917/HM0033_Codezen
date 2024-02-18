@@ -8,9 +8,11 @@
 </ul>
 
  <h2>The system has three modules. </h2>
-    <ul><li>User</li>
+   <ul>
+    <li>User</li>
     <li>Admin</li>
-    <li>Delivery</li></ul>
+    <li>Delivery</li>
+   </ul>
    <br>
     <p>The User module is designed for people who wish to donate their excess or leftover food to help reduce food wastage.The User module is responsible for accepting food donations from users who have excess food, such as marriage halls, restaurants, or individuals.The module provides users with the ability to register, login, and donate food. Users can select the type and quantity of food they want to donate, and the system will match their donation with the nearest needy people or organizations.The module also allows users to view their donations.The User module provides the information to the Admin module for further processing.
    </p><br>
@@ -28,16 +30,16 @@
     
    <h3>Delivery </h3>
    <h3>features:</h3>
-    <ul>
+   <ul>
       <li>Mobile Screen friendly website.</li>
       <li>Secure Login</li>
    </ul>
       <h2>How to run</h2>
-      <ol>
-       <li>Clone the repository</li>
-       <li>Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/Html)</li>
-       <li> Open PHPMyAdmin (http://localhost/phpmyadmin)</li>
-       <li> Create a database</li>
-       <li>Import demo.sql file(inside database folder)</li>
-       <li> Run the script http://localhost/folderName </li> 
-      </ol>
+   <ol>
+      <li> Clone the repository</li>
+      <li> Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/Html)</li>
+      <li> Open PHPMyAdmin (http://localhost/phpmyadmin)</li>
+      <li> Create a database</li>
+      <li> Import demo.sql file(inside database folder)</li>
+      <li> Run the script http://localhost/folderName </li> 
+   </ol>
